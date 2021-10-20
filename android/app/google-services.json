@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131358955342",
+    "project_id": "clothing-b061c",
+    "storage_bucket": "clothing-b061c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131358955342:android:b73a9b4a94054fb82d301f",
+        "android_client_info": {
+          "package_name": "com.lovato.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131358955342-frip5h1n34verfqmdciau361p9piigag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMD2LCkWVcSx96hS1Pe9LQZbh_DzeE9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131358955342-frip5h1n34verfqmdciau361p9piigag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
